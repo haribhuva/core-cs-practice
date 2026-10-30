@@ -1,0 +1,30 @@
+# Insert into a Sorted Circular Linked List
+
+- **Category:** Additional
+- **Difficulty:** Core
+- **Source:** [Insert into a Sorted Circular Linked List](https://takeuforward.org/practice/dsa/insert-into-a-sorted-circular-linked-list)
+
+## Hint
+
+<!-- Add a hint that would help you approach the problem. -->
+
+## My Approach
+
+<!-- Describe the approach you tried and why you chose it. -->
+
+## Key Insight
+
+<!-- Record the main observation or idea you learned. -->
+
+## Complexity
+
+- **Time:** 
+- **Space:** 
+
+## Edge Cases
+
+<!-- Note edge cases you considered or initially missed. -->
+
+## My Experience
+
+<!-- Write what you found difficult, what worked, and what you learned. -->

@@ -1,0 +1,15 @@
+"""
+Problem: Deletion of the head of LL
+Difficulty: Core
+Category: Linked List
+Source: https://takeuforward.org/practice/dsa/deletion-of-the-head-of-ll
+"""
+
+
+def solve():
+    """Implement the solution here."""
+    pass
+
+
+if __name__ == "__main__":
+    solve()
