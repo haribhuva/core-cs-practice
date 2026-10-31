@@ -21,3 +21,10 @@ class Solution:
 if __name__ == "__main__":
     solution = Solution()
     solution.pattern2(4)
+
+# Optimum by Chat GPT, hehe!
+# class Solution:
+#     def pattern2(self, n):
+#         for i in range(1,n+1):
+#             print(i*"*")
+#         return i
