@@ -7,7 +7,6 @@ Source: https://takeuforward.org/practice/dsa/pattern-6
 
 
 def solve():
-    """Implement the solution here."""
     pass
 
 
