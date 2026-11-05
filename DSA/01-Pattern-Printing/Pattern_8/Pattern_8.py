@@ -6,10 +6,11 @@ Source: https://takeuforward.org/practice/dsa/pattern-8
 """
 
 
-def solve():
-    """Implement the solution here."""
-    pass
-
+class Solution:
+    def pattern8(self, n):
+        for i in range(n, 0, -1):
+            print(" " * (n - i) + "*" * (2 * i - 1))
 
 if __name__ == "__main__":
-    solve()
+    solution = Solution()
+    solution.pattern8(5)
