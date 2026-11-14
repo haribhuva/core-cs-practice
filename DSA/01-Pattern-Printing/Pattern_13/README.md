@@ -37,4 +37,4 @@ The main idea is to maintain a single counter (`num`) throughout the pattern ins
 
 ## My Experience
 
-**Note: ** I stuck for whole two days but didn't get logic and write the code blindly. that was mistake because i didn't even try to understand question and try and error again and again for print focused results instead of thinking the core problem. date: 13-11-2026.
+**Note:** I stuck for whole two days but didn't get logic and write the code blindly. that was mistake because i didn't even try to understand question and try and error again and again for print focused results instead of thinking the core problem. date: 13-11-2026.
